@@ -1,0 +1,8 @@
+# Jupyter Checkpoints
+
+
+.ipynb_checkpoints
+
+*/.ipynb_checkpoints/*
+
+config.py
